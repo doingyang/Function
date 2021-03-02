@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="tip_photo">轻触拍照</string>
+    <string name="tip_video">长按摄像</string>
+    <string name="tip_photo_video">轻触拍照，长按摄像</string>
+</resources>

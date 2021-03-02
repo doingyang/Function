@@ -1,0 +1,4 @@
+rootProject.name = "Function"
+include ':app',
+        ':camera',
+        ':gallery'
